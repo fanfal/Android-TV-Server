@@ -1,0 +1,330 @@
+{
+  "categories": [
+    {
+      "id": "womens",
+      "colour": "#EF6790",
+      "displayName": "WOMEN"
+    },
+    {
+      "id": "baby",
+      "colour": "#B576B8",
+      "displayName": "BABY"
+    },
+    {
+      "id": "mens",
+      "colour": "#00A699",
+      "displayName": "MEN"
+    },
+    {
+      "id": "kids",
+      "colour": "#FB8542",
+      "displayName": "KIDS"
+    },
+    {
+      "id": "entertainment",
+      "colour": "#4C4D74",
+      "displayName": "ENTERTAINMENT"
+    },
+    {
+      "id": "home",
+      "colour": "#F1B300",
+      "displayName": "HOME"
+    },
+    {
+      "id": "toys",
+      "colour": "#27C4D9",
+      "displayName": "TOYS"
+    },
+    {
+      "id": "lifestyle",
+      "colour": "#40BE79",
+      "displayName": "LIFESTYLE"
+    },
+    {
+      "id": "beauty",
+      "colour": "#EF6790",
+      "displayName": "BEAUTY"
+    }
+  ],
+ "offers": [
+    {
+      "id": "deal_9501",
+      "offerType": "deal",
+      "inStore": true,
+      "title": "Bold title",
+      "shortDescription": "test page title",
+      "longDescription": "This is a very long title",
+      "online": true,
+      "ongoing": true,
+      "categories": [
+        "entertainment"
+      ],
+      "startDate": "2015-07-01T00:00:00.000+10:00",
+      "endDate": "2095-06-30T23:59:59.000+10:00",
+      "createdDate": "2015-09-01T14:37:23.650+10:00"
+    },
+    {
+      "id": "deal_9201",
+      "offerType": "deal",
+      "inStore": true,
+      "title": "Bold title",
+      "shortDescription": "test page title",
+      "longDescription": "This is a very long title",
+      "online": false,
+      "ongoing": true,
+      "categories": [
+        "entertainment"
+      ],
+      "startDate": "2015-07-01T00:00:00.000+10:00",
+      "endDate": "2095-06-30T23:59:59.000+10:00",
+      "createdDate": "2015-08-31T11:38:10.327+10:00"
+    },
+    {
+      "id": "deal_9203",
+      "offerType": "deal",
+      "inStore": false,
+      "title": "Bold title",
+      "shortDescription": "test page title",
+      "longDescription": "This is a very long title",
+      "online": true,
+      "ongoing": true,
+      "categories": [
+        "entertainment"
+      ],
+      "startDate": "2015-07-01T00:00:00.000+10:00",
+      "endDate": "2095-06-30T23:59:59.000+10:00",
+      "createdDate": "2015-08-31T11:38:10.327+10:00"
+    },
+    {
+      "id": "deal_9202",
+      "offerType": "deal",
+      "inStore": false,
+      "title": "Bold title",
+      "shortDescription": "test page title",
+      "longDescription": "This is a very long title",
+      "online": false,
+      "ongoing": true,
+      "categories": [
+        "entertainment"
+      ],
+      "startDate": "2015-07-01T00:00:00.000+10:00",
+      "endDate": "2095-06-30T23:59:59.000+10:00",
+      "createdDate": "2015-08-31T11:38:10.327+10:00"
+    },
+    {
+      "id": "deal_7660",
+      "offerType": "deal",
+      "inStore": true,
+      "title": "2 for 1",
+      "shortDescription": "Buy any Maybeline beauty product and get the second free.",
+      "longDescription": "Buy any Maybeline beauty product and get the second free.",
+      "online": true,
+      "ongoing": true,
+      "categories": [
+        "beauty"
+      ],
+      "startDate": "2014-04-17T18:00:00.000+10:00",
+      "endDate": "2020-08-22T00:00:00.000+10:00",
+      "createdDate": "2014-04-17T01:00:09.137+10:00"
+    },
+    {
+      "id": "deal_7656",
+      "offerType": "deal",
+      "inStore": true,
+      "title": "2 for $30",
+      "shortDescription": "Buy 2 Grandeur Bath Towels for $30",
+      "online": false,
+      "ongoing": true,
+      "categories": [
+        "home",
+        "toys"
+      ],
+      "startDate": "2014-04-17T18:00:00.000+10:00",
+      "endDate": "2020-08-20T00:00:00.000+10:00",
+      "createdDate": "2014-04-17T01:00:08.860+10:00"
+    },
+    {
+      "id": "deal_7655",
+      "offerType": "deal",
+      "inStore": true,
+      "title": "2 for $50",
+      "shortDescription": "Buy 2 Egyptian Bath Sheets for $50",
+      "online": false,
+      "ongoing": true,
+      "categories": [
+        "home",
+        "kids",
+        "beauty"
+      ],
+      "startDate": "2014-04-17T18:00:00.000+10:00",
+      "endDate": "2020-08-19T00:00:00.000+10:00",
+      "createdDate": "2014-04-17T01:00:07.380+10:00"
+    },
+    {
+      "id": "deal_7662",
+      "offerType": "deal",
+      "inStore": true,
+      "title": "Buy 1 get 1 free",
+      "shortDescription": "Buy 2 drink bottles to get the 2nd half price.",
+      "online": true,
+      "ongoing": true,
+      "categories": [
+        "baby",
+        "entertainment",
+        "lifestyle",
+        "mens"
+      ],
+      "startDate": "2014-04-17T18:00:00.000+10:00",
+      "endDate": "2020-07-23T00:00:00.000+10:00",
+      "createdDate": "2014-04-17T01:00:06.180+10:00"
+    },
+    {
+      "id": "deal_7659",
+      "offerType": "deal",
+      "inStore": true,
+      "title": "2 for $50",
+      "shortDescription": "Buy 2 selected Men's Jeans for $50",
+      "online": true,
+      "ongoing": true,
+      "categories": [
+        "mens"
+      ],
+      "startDate": "2014-04-17T18:00:00.000+10:00",
+      "endDate": "2020-08-21T00:00:00.000+10:00",
+      "createdDate": "2014-04-17T01:00:05.147+10:00"
+    },
+    {
+      "id": "deal_7653",
+      "offerType": "deal",
+      "inStore": true,
+      "title": "50% off second item",
+      "shortDescription": "Buy 2 Essentials Cotton Cover or Soft Polyester Quilts to get the second half price",
+      "online": false,
+      "ongoing": true,
+      "categories": [
+        "home"
+      ],
+      "startDate": "2014-04-17T00:00:00.000+10:00",
+      "endDate": "2020-08-18T00:00:00.000+10:00",
+      "createdDate": "2014-04-16T01:30:31.597+10:00"
+    },
+    {
+      "id": "deal_7651",
+      "offerType": "deal",
+      "inStore": true,
+      "title": "2 for $40",
+      "shortDescription": "Buy 2 selected Men's Shirts for $40",
+      "longDescription": "Buy 2 selected Men's Shirts for $40",
+      "online": true,
+      "ongoing": true,
+      "categories": [
+        "mens"
+      ],
+      "startDate": "2014-04-17T00:00:00.000+10:00",
+      "endDate": "2020-08-17T00:00:00.000+10:00",
+      "createdDate": "2014-04-14T23:45:12.210+10:00"
+    },
+    {
+      "id": "deal_7647",
+      "offerType": "deal",
+      "inStore": true,
+      "title": "2 for $20 (TIME)",
+      "shortDescription": "Buy 2 selected Women's Singlets for $20",
+      "longDescription": "Buy 2 selected Women's Singlets for $20",
+      "online": false,
+      "ongoing": true,
+      "categories": [
+        "womens"
+      ],
+      "startDate": "2014-04-15T00:00:00.000+10:00",
+      "endDate": "2020-08-16T10:52:11.000+10:00",
+      "createdDate": "2014-04-14T23:45:01.727+10:00"
+    },
+    {
+      "id": "deal_7646",
+      "offerType": "deal",
+      "inStore": true,
+      "title": "3 for $15",
+      "shortDescription": "Buy 3 selected Women's briefs for $15. The quick brown fox jumps over the lazy dog. Buy 3 selected Women's briefs for $15. The quick brown fox jumps over the lazy dog. Buy 3 selected Women's briefs for $15. The quick brown fox jumps over the lazy dog. ",
+      "longDescription": "Buy 3 selected Women's briefs for $15. The quick brown fox jumps over the lazy dog. Buy 3 selected Women's briefs for $15. The quick brown fox jumps over the lazy dog. Buy 3 selected Women's briefs for $15. The quick brown fox jumps over the lazy dog. ",
+      "online": true,
+      "ongoing": true,
+      "categories": [
+        "womens"
+      ],
+      "startDate": "2014-04-14T10:30:00.000+10:00",
+      "endDate": "2020-08-15T15:04:36.000+10:00",
+      "createdDate": "2014-04-14T10:30:03.043+10:00"
+    },
+   {
+     "id": "voucher_P05",
+     "offerType": "voucher",
+     "inStore": true,
+     "title": "Free Coffee",
+     "shortDescription": "Spend $60 and get a free regular tea or coffee in the Target Café. Selected stores only.",
+     "online": false,
+     "ongoing": true,
+     "categories": [
+       "lifestyle"
+     ],
+     "startDate": "2015-07-20T00:00:00.000+10:00",
+     "endDate": "2020-08-02T00:00:00.000+10:00",
+     "createdDate": "2015-07-20T10:40:51.497+10:00",
+     "redemptionBarcode": 2721000009395
+   },
+   {
+     "id": "voucher_P03",
+     "offerType": "voucher",
+     "inStore": true,
+     "title": "30% Off Home",
+     "shortDescription": "30% Off all homeware, bedding and table wear (excludes appliances)  - 4 days only.",
+     "online": true,
+     "ongoing": true,
+     "categories": [
+       "home"
+     ],
+     "startDate": "2015-07-20T00:00:00.000+10:00",
+     "endDate": "2020-09-02T00:00:00.000+10:00",
+     "createdDate": "2015-07-20T10:18:50.937+10:00",
+     "redemptionWord": "HOMESWEETHOME",
+     "redemptionBarcode": 2721000009371
+   },
+   {
+     "id": "voucher_P02",
+     "offerType": "voucher",
+     "inStore": true,
+     "title": "$20 off",
+     "shortDescription": "Get $20 off when you spend $100 on women's apparel, underwear, footwear and accessories",
+     "longDescription": "Get $20 off when you spend $100 on women's apparel",
+     "online": true,
+     "ongoing": true,
+     "categories": [
+       "womens"
+     ],
+     "startDate": "2015-07-20T00:00:00.000+10:00",
+     "endDate": "2020-09-02T00:00:00.000+10:00",
+     "createdDate": "2015-07-20T10:10:07.297+10:00",
+     "redemptionWord": "YAYFORME",
+     "redemptionBarcode": 2721000009364
+   },
+   {
+     "id": "voucher_P01",
+     "offerType": "voucher",
+     "inStore": true,
+     "title": "20% Off apparel",
+     "shortDescription": "Includes women's, men's and kids clothing, underwear, accessories and footwear",
+     "online": true,
+     "ongoing": true,
+     "categories": [
+       "kids",
+       "mens",
+       "womens"
+     ],
+     "startDate": "2015-07-20T00:00:00.000+10:00",
+     "endDate": "2020-09-02T00:00:00.000+10:00",
+     "createdDate": "2015-07-20T10:05:54.263+10:00",
+     "redemptionWord": "APPARELSALE",
+     "redemptionBarcode": 2721000009357
+   }
+  ]
+}
