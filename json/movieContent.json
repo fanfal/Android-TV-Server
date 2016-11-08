@@ -2,11 +2,11 @@
   "math": [
     {
       "id": "0000001",
-      "title": "Math class 1",
-      "description": "This is a text video",
+      "title": "Thought Works video",
+      "description": "This is a thought video",
       "byImageUrl": "",
       "cardImageUrl": "",
-      "videoUrl": "media.mp4",
+      "videoUrl": "localhost:8080/media/ThoughtWorks.mp4",
       "studio": "media",
       "category": "math"
     }

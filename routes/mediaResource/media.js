@@ -5,7 +5,7 @@ var MEDIA_BASE_PATH = "./public/media/";
 var videoBufferSize = 64 * 1024;
 
 
-router.get("/", function (req, res, next) {
+router.get("/:mediaName", function (req, res, next) {
 
     var address = MEDIA_BASE_PATH + req.query.mediaName;
     var total = fs.statSync(address).size;
